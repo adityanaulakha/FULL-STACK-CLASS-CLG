@@ -1,0 +1,19 @@
+.container{
+    display: block;
+}
+.box{
+    background-color: darksalmon;
+    height: 100px;
+    width: 100px; 
+    margin: 100px;
+}
+.box1{
+    background-color: lightblue;
+    height: 100px;
+    width: 100px; 
+    margin: 100px;
+    /* position: static; */
+    /* position: relative; */
+    position: fixed;
+    left: 50px;
+}
